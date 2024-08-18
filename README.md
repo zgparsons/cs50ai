@@ -1,0 +1,3 @@
+Git repo for my cs50ai learning and code...
+
+[CS50ai](https://cs50.harvard.edu/ai/2024/)
